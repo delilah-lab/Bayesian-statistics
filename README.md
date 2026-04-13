@@ -3,7 +3,6 @@
 This project demonstrates a simple Bayesian approach to estimate public support for gun control using a Beta prior and survey data. The model updates beliefs based on observed responses and produces a posterior distribution with a credible interval.
 
 ---
-
 ## 🛠️ Tools & Technologies
 - Python
 - NumPy
